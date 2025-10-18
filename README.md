@@ -1,7 +1,8 @@
 # KAIRI_2025_Summer
-Results of summer internship at KAIST (Korea Advanced Institute of Science and Technology)
+This repository is the implementation of the report [An analysis of Answer Inconsistency in Language Models under
+Input Format Changes: An Approach via Hidden State Analysis](./report/Junhyeok%20Park%20Research%20Report.pdf) during my summer internship at KAIST (Korea Advanced Institute of Science and Technology)
 
-This project can be run on Google Colab.
+This project can be run on Google Colab by following the instructions below.
 
 ## Project Structure
 
